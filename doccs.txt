@@ -1,0 +1,5 @@
+
+ https://i.pinimg.com/originals/b9/7e/a3/b97ea33b5842c7894b804923c6c05580.jpg
+https://s3.console.aws.amazon.com/s3/object/myfacerecog?region=ap-south-1&bucketType=general&prefix=index.html
+https://s3.console.aws.amazon.com/s3/object/myfacerecog?region=ap-south-1&bucketType=general&prefix=sample.jpg
+http://13.127.170.90/faccee/indddex.php
